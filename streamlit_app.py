@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title('Dashboard')
+st.set_page_config(page_title='Dashboard')
 st.header('My First Application')
